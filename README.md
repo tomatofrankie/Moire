@@ -1,7 +1,7 @@
 # Moire
 
 ## Introduction
-Investigating Moire Effect. The idea is adopted from Professor Thierry Blu, EE, CUHK.
+Final Year Project in investigating the Moire Effect. The idea is adopted from Professor Thierry Blu, EE, CUHK.
 
 ## main.m
 Main program, investigating the removal of moire patterns.
