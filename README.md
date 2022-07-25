@@ -19,3 +19,6 @@ Splitting the image into rgb channels to see if it can reduce moire patterns. Pr
 
 ## imfrest2.m and immax.m
 Finding moire patterns of an image.
+
+## ft2D
+Trying to remove moire patterns of an image with multiple methods.
